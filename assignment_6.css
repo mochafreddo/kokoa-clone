@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ff6446;
+}
+.first {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #f5deb3;
+  width: 300px;
+  height: 300px;
+  border: 3px solid black;
+}
+.second {
+  background-color: #008080;
+  width: 65px;
+  height: 65px;
+}
+.white-border {
+  border: 3px solid white;
+}
+.third {
+  width: 250px;
+  border-style: dashed;
+}
