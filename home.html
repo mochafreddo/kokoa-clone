@@ -3,6 +3,10 @@
   <head>
     <title>The Nico Times</title>
     <style>
+      :root {
+        --main-color: #489ee3;
+        --default-border: 1px solid var(--main-color);
+      }
       body {
         height: 1000vh;
         margin: 50px;
@@ -12,10 +16,12 @@
         padding: 5px;
         border-radius: 10px;
       }
-      input[type^="password"] {
-        color: white;
-        font-size: 50px;
-        background-color: yellowgreen;
+      p {
+        background-color: var(--main-color);
+      }
+      a {
+        color: var(--main-color);
+        border: var(--default-border);
       }
     </style>
   </head>
@@ -26,5 +32,8 @@
       eveniet eaque. Cumque reprehenderit ducimus odio enim officiis dolor in,
       nesciunt sit!
     </p>
+    <div>
+      <a href="#">website</a>
+    </div>
   </body>
 </html>
