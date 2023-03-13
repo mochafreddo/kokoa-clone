@@ -1,4 +1,4 @@
-# kokoa Clone 2020 Update
+# Kokoa Clone 2020 Update
 
 Welcome to the Kokoa Clone 2020 Update! This project was created as a learning exercise to help me improve my HTML and CSS skills.
 
