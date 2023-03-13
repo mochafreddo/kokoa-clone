@@ -1,3 +1,17 @@
 # kokoa Clone 2020 Update
 
-HTML & CSS are so much fun!
+Welcome to the Kokoa Clone 2020 Update! This project was created as a learning exercise to help me improve my HTML and CSS skills.
+
+## Technologies Used
+
+To create this project, I primarily used HTML and CSS. I did not use JavaScript in this project, but I plan to learn it in the future and incorporate it into my projects.
+
+## Viewing the Project
+
+To see the final result, please visit [Geoffrey's Kokoa Clone](https://mochafreddo.github.io/kokoa-clone). Note that the webpage is optimized for a resolution of 414 x 896, so I recommend adjusting your browser to mobile size or switching to device mode in developer mode to get the best viewing experience.
+
+## Future Improvements
+
+While I'm proud of what I've accomplished with this project, there are always ways to improve. In the future, I plan to add more dynamic features using JavaScript and potentially explore using other technologies to make the site even more engaging.
+
+Thanks for taking the time to check out my project! I hope you enjoy it.
