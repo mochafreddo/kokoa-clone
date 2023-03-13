@@ -4,6 +4,7 @@
   align-items: center;
   padding: var(--horizontal-space);
   margin-bottom: 15px;
+  position: relative;
 }
 
 .screen-header__title {
@@ -26,4 +27,14 @@
 
 .screen-header__icons .fa-gear:hover {
   animation: rotateCog 1s linear infinite;
+}
+
+.screen-header__settings-noti {
+  background-color: tomato;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  top: 25px;
 }
