@@ -14,7 +14,7 @@
   margin: 100px 0;
   display: block;
   text-align: center;
-  font-size: 18px;
+  font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
 }
 
@@ -25,8 +25,15 @@
   margin-bottom: 25px;
 }
 
+.open-chat__header h4 {
+  font-weight: 600;
+  opacity: 0.8;
+  font-size: 17px;
+}
+
 .open-chat__header span {
-  opacity: 0.6;
+  opacity: 0.65;
+  font-size: 15px;
 }
 
 .open-post {
@@ -59,19 +66,20 @@
 }
 
 .open-post__member-count {
-  opacity: 0.5;
+  opacity: 0.6;
   font-size: 14px;
 }
 
 .open-post__members .divider {
   width: 2px;
   height: 15px;
-  margin: 0 5px;
+  margin: 0 6px;
   background-color: rgba(0, 0, 0, 0.2);
 }
 
 .open-post__member-status {
   color: #ffb0e0;
+  font-weight: 600;
 }
 
 .open-post__photo {

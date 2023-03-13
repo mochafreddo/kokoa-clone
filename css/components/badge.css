@@ -9,3 +9,10 @@
   color: white;
   font-weight: 600;
 }
+
+.nav__link .badge {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  font-size: 12px;
+}
